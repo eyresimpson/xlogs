@@ -3,7 +3,6 @@
   <el-page-header :icon="null" title="XLogs">
     <template #content>
       <div class="flex items-center">
-<!--        <span class="text-large font-600 mr-3"> XLogs </span>-->
         <span class="sub-title" style="color: var(--el-text-color-regular)">
           日志订阅工具
         </span>
